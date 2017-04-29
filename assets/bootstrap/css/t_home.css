@@ -1,0 +1,8 @@
+.rotate{
+    -moz-transition: all 0s linear;
+    -webkit-transition: all 0s linear;
+}    
+
+.rotate.down{
+    -webkit-transform:rotate(180deg);
+}
